@@ -6,6 +6,11 @@
 
 ---
 
+![Demo GIF](dungeon.gif)
+
+
+---
+
 ## 🚀 Why This Project Exists
 
 **Rogue Dungeon** isn’t “just another terminal game.”

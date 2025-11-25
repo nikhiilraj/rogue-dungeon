@@ -175,4 +175,4 @@ Let’s build a full roguelike universe together ⚔️
 📜 License
 ----------
 
-MIT License — free to use, modify, and share.
+MIT License free to use, modify, and share.

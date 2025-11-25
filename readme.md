@@ -117,41 +117,6 @@ npm start
 
 ---
 
-# 🔥 Why This Project Impresses Recruiters
-
-Most student portfolios contain:
-
-❌ Simple CRUD apps
-❌ Todo lists
-❌ Portfolio websites
-❌ Basic clones
-
-But **Rogue Dungeon** shows things companies care about:
-
-### ✔ System thinking
-
-Managing dozens of moving parts and states.
-
-### ✔ Event loops
-
-Understanding how game ticks, logic, and UI work.
-
-### ✔ Data modeling
-
-Player, enemies, map, state, logs, rendering.
-
-### ✔ Problem-solving
-
-AI behavior, collision detection, procedural content.
-
-### ✔ Real-time UI
-
-A rare skill in web/backend engineers.
-
-This **immediately differentiates you from other applicants**.
-
----
-
 # 🧠 What I Learned Building This
 
 * Designing interactive CLI apps
